@@ -38,7 +38,7 @@
     "lowdb": "^7.0.1",
     "memfs": "^4.8.1",
     "node-fetch": "^3.3.2",
-    "pdfjs-dist": "^4.0.379",
+    "pdfjs-dist": "^4.2.67",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-json-editor-ajrm": "^2.5.14",
